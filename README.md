@@ -1,4 +1,5 @@
 # username
+
 A bash script to check whether a string satisfies the requirements for a username.
 
 This repo contains a **zip.sh** bash script that checks whether a string is a valid 5 digit zip code.
